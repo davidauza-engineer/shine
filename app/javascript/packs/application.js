@@ -8,6 +8,7 @@ require("@rails/activestorage").start()
 require("channels")
 
 import "./application.css"
+import "bootstrap/dist/css/bootstrap.css";
 console.log('Hello World from Webpacker');
 
 // Uncomment to copy all static images under ../images to the output folder and reference
